@@ -3,5 +3,11 @@ VERSION:4.0
 PRODID:-//BBros.us llc//bvCard.com//EN
 N:Holmes;Alex;;Mr;
 FN:Mr Alex Holmes
+EMAIL:sirius@example.com
+ORG:Sirius Cybernetics Corporation
+TEL:123-123-1234
 URL;type=pref:http://www.example.com
+URL:https://www.linkedin.com/in/example
+URL:https://www.facebook.com/example
+URL:https://www.twitter.com/example
 END:VCARD
